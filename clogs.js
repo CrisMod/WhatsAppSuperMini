@@ -12,22 +12,22 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/dark.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/dark.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/dark.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/dark.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/light.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/light.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/light.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/light.html"
 				}
 			]
 		},
@@ -37,7 +37,7 @@
 			"status": "update_title",
 			"title": "WhatsApp {Business M}",
 			"note": "false",
-			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/tip_busimess.html",
+			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/tip_busimess.html",
 			"download": "https://crismod.ml",
 			"update": [
 				{
@@ -84,32 +84,32 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/dark/changelog-es.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/M/dark/changelog-es.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/dark/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/M/dark/changelog-en.html"
 				},
 				{
 					"languaje": "pt-br",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/dark/changelog-pt.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/M/dark/changelog-pt.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/light/changelog-es.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/M/light/changelog-es.html"
 				},
 				{
 					"languaje": "pt-br",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/light/changelog-pt.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/M/light/changelog-pt.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsApp_M_Pro_New/main/M/light/changelog-en.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/M/light/changelog-en.html"
 				}
 			]
 		}
