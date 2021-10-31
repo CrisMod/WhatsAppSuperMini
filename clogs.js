@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{	
-			"version": "2.00",
+			"version": "1.00",
 			"package": "com.whatsapp",
 			"status": "update_title",
 			"title": "WhatsApp {Super Mini}",
