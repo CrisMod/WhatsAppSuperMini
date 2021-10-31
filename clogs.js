@@ -12,22 +12,22 @@
 				{
 					"languaje": "es",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/dark.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-d.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "dark",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/dark.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-d.html"
 				},
 				{
 					"languaje": "es",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/light.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-l.html"
 				},
 				{
 					"languaje": "en",
 					"theme": "light",
-					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/light.html"
+					"changelog": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/changelog-l.html"
 				}
 			]
 		}
