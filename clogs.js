@@ -1,13 +1,13 @@
 {
 	"packages": [
 		{	
-			"version": "1.00",
+			"version": "2.00",
 			"package": "com.whatsapp",
 			"status": "update_title",
 			"title": "WhatsApp {Super Mini} 2.0",
 			"note": "false",
 			"msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsAppSuperMini/main/dark.html",
-			"download": "http://fumacrom.com/2g9hu",
+			"download": "http://fumacrom.com/2jteW",
 			"update": [
 				{
 					"languaje": "es",
